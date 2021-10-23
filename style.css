@@ -1,0 +1,20 @@
+
+h1
+{
+	color:rgb(16, 249, 214); 
+	font-size: 45px;
+}
+.backgorund {
+background-image:url("bg1.jpg");
+background-position: center;
+background-size: cover;
+}
+
+
+#mycanvas{
+
+	border-width: 20px;
+	border-style: ridge;
+	background-color: white;
+
+}
